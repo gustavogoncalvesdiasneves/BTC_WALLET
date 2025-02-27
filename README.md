@@ -51,9 +51,9 @@ To test transactions, you need **Testnet BTC**, which can be obtained from a **T
 
 ### 5️⃣ Import Wallet into Electrum (Optional)
 If you want to manage your wallet in a **graphical interface**, you can import it into **Electrum**:
-1. Open **Electrum** and select `Testnet` mode.
-2. Choose `Restore a wallet`.
-3. Enter your **mnemonic phrase**.
+1. Open properties config of **Electrum** widget and ahead of `.exe` add `--testnet` and open.
+2. Choose `Restore a wallet or private key` something else.
+3. Enter your **private key**.
 4. Start receiving and sending Testnet BTC!
 
 ## 🖼️ Screenshots
