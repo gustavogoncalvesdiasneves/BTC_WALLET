@@ -78,5 +78,5 @@ This project is for educational purposes only. **Do not use real BTC or Mainnet 
 
 ---
 
-💡 **Created by:** PlayerG4
+💡 **Created by:** Gustavo Gonçalves Dias Neves
 
