@@ -56,6 +56,18 @@ If you want to manage your wallet in a **graphical interface**, you can import i
 3. Enter your **mnemonic phrase**.
 4. Start receiving and sending Testnet BTC!
 
+## 🖼️ Screenshots
+Here are some screenshots to demonstrate the process:
+
+1. **Creating a wallet in VS Code terminal:**
+   ![Wallet Creation](./docs/VSCODE-wallet-created.PNG)
+
+2. **Confirmed transaction on a BTC Explorer:**
+   ![BTC Explorer Transaction](./docs/btc-explorer-confirmed-transaction.PNG)
+
+3. **Balance displayed in Electrum Wallet:**
+   ![Electrum Balance](./docs/electrum-confirmed-transaction.PNG)
+
 ## 🔥 Next Steps
 - Implement **Mainnet support**.
 - Add **transaction signing and broadcasting** features.
@@ -66,5 +78,5 @@ This project is for educational purposes only. **Do not use real BTC or Mainnet 
 
 ---
 
-💡 **Created by:** Gustavo Gonçalves Dias Neves
+💡 **Created by:** PlayerG4
 
